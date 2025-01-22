@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Thamyris Alves!
 - 👀 Sou engenheira civil e atualmente embarquei no mundo da programação.
 - 🌱 Estou buscando conhecimentos na área de desenvolvedor Full-Stack e compartilhando meus projetos por aqui.
-- 💞️ Eu gosto de embarcar em desafios que melhorem a qualidade de vida das pessoas e tragam soluções que otimizem tempo e dinheiro.
+- 💞️ Eu gosto de participar de desafios que melhorem a qualidade de vida das pessoas e tragam soluções que otimizem tempo e dinheiro.
   
 
 
